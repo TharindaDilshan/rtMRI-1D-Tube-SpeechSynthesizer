@@ -22,25 +22,21 @@ Below is the rtMRI frame that was used to extract the area-function for these de
 
 ### rtMRI Frame
 
-![rtMRI frame used for synthesis](data/aa_rtmri.png)
+<p align="left">
+  <img src="data/aa_rtmri.png" alt="rtMRI frame used for synthesis" width="300"/>
+</p>
 
 ---
 
 ### Rosenberg-Driven Synth
 
-<audio controls>
-  <source src="data/aa_with_rosenberg.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+**Listen/download:** [example_rosenberg.wav](data/aa_with_rosenberg.wav)
 
 ---
 
 ### EGG-Driven Synth
 
-<audio controls>
-  <source src="data/aa_with_egg.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+**Listen/download:** [example_egg.wav](data/aa_with_egg.wav)
 
 ## References
 
